@@ -1,0 +1,31 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "label de musique",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomas-Adragna/label-Contract.git"
+  },
+  "keywords": [
+    "(ethereum",
+    "smart-contracts",
+    "solidity",
+    "blockchain)"
+  ],
+  "author": "Thomas A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomas-Adragna/label-Contract/issues"
+  },
+  "homepage": "https://github.com/Thomas-Adragna/label-Contract#readme",
+  "dependencies": {
+    "solc": "^0.8.9"
+  }
+}
